@@ -20,7 +20,15 @@ Prompts for finding and fixing coding issues.
 ### Learning
 Prompts for understanding technical concepts.
 
-## AI Tools
+## Features
+
+✅ Flutter development prompts  
+✅ Web development prompts  
+✅ Debugging and error analysis prompts  
+✅ AI-assisted development workflows  
+✅ Learning and productivity prompts
+
+## Supported AI Tools
 
 - ChatGPT
 - Claude
